@@ -7,3 +7,5 @@ submissions/
 out/
 *.zip
 .env
+!*-front.zip
+!*-fisheye.zip
